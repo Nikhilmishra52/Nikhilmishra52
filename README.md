@@ -1,4 +1,4 @@
-👋 Hello there! I'm [Your Name], a passionate Software Developer with a diverse skillset and a love for creating innovative solutions. 💻🚀
+👋 Hello there! I'm Nikhil Mishra, a passionate Software Developer with a diverse skillset and a love for creating innovative solutions. 💻🚀
 
 👨‍💻 My journey in the world of programming began with C++, where I honed my problem-solving skills and learned to write efficient and robust code. 🧠
 
@@ -14,4 +14,4 @@
 
 📚 Check out my repositories below to see some of my projects and code contributions. Let's collaborate and build something awesome together! Feel free to reach out via email or LinkedIn. 🤝📧
 
-🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile) | [Email](mailto:youremail@example.com)
+🔗 [LinkedIn]((https://www.linkedin.com/in/nikhil-mishra-732114233)) | [Email](mailto:nm47855r@gmail.com)
