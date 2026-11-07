@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Replace this placeholder with your own professional photo URL after uploading it to a public image host or GitHub repository. -->
-  <img src="YOUR_PROFILE_PHOTO_URL" alt="Nikhil Mishra" width="150" height="150" style="border-radius: 50%;" />
+  <img src="https://github.com/Nikhilmishra52/Nikhilmishra52/blob/main/Nikhil_Image.jpg" alt="Nikhil Mishra" width="150" height="150" style="border-radius: 50%;" />
 
   # Hi, I'm Nikhil Mishra 👋
 
